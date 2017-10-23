@@ -1,0 +1,9 @@
+__pycache__
+.project
+.pydevproject
+bbidder.egg-info/
+bidder.log
+build/
+dist/
+nohup.out
+setuptools-33.1.1.zip

@@ -1,0 +1,7 @@
+connexion>=1.0.31
+gevent>=1.1b1
+simplejson>=3.11.1
+jsonrpcclient>=2.5.1
+jsonrpcserver>=3.5.2
+jsonschema>=2.6.0
+pyzmq>=16.0.2
